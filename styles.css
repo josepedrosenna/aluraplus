@@ -193,6 +193,10 @@ body {
         display: block;
     }
 
+    .rodape {
+        margin: 9em 2em 4em;
+    }
+
     .rodape__lista {
         display: block;
     }
